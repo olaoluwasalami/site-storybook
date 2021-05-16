@@ -12,6 +12,6 @@ module.exports = {
       extend: {
       },
     },
-    plugins: [s
+    plugins: [
     ],
   }
